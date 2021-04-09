@@ -6,7 +6,7 @@
 
 #root {
   background: linear-gradient(130deg,#ff7a18,#af002d 41.07%,#319197 76.05%);
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .container {
